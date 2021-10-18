@@ -9,4 +9,4 @@
 ||keystone.mwbsys.com^
 ||android.clients.google.com^
 ||*.facebook.*/ads/about/^$important
-||*.captchaverifier.top^
+||*captchaverifier.top^
