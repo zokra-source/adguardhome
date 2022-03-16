@@ -10,6 +10,7 @@
 ||android.clients.google.com^$important
 ||*.facebook.*/ads/about/^$important
 ||*captchaverifier.top^$important
+||googleadservices.com^$important
 
 # TikTok ads and analytics (also in my smartphone ads and tracking blocklist)
 
