@@ -5,8 +5,6 @@
 ||llamame.cl^$important
 ||*caliente.mx^$important
 ||license.piriform.com^$important
-||keystone-akamai.mwbsys.com^$important
-||keystone.mwbsys.com^$important
 ||android.clients.google.com^$important
 ||*.facebook.*/ads/about/^$important
 ||*captchaverifier.top^$important
@@ -14,8 +12,9 @@
 
 # Relacionado con MalwareBytes
 #
-||*serius.mwbsys.com^$important
-||*keystone.mwbsys.com^$important
+||keystone-akamai.mwbsys.com^$important
+||serius.mwbsys.com^$important
+||keystone.mwbsys.com^$important
 
 # TikTok ads and analytics (also in my smartphone ads and tracking blocklist)
 
