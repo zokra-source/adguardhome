@@ -12,6 +12,11 @@
 ||*captchaverifier.top^$important
 ||*googleadservices.com^$important
 
+# Relacionado con MalwareBytes
+#
+||*serius.mwbsys.com^$important
+||*keystone.mwbsys.com^$important
+
 # TikTok ads and analytics (also in my smartphone ads and tracking blocklist)
 
 ||ads.tiktok.com^$important
