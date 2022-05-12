@@ -4,7 +4,6 @@
 ||grs.dbankcloud^$important
 ||llamame.cl^$important
 ||*caliente.mx^$important
-||license.piriform.com^$important
 ||android.clients.google.com^$important
 ||*.facebook.*/ads/about/^$important
 ||*captchaverifier.top^$important
@@ -15,6 +14,15 @@
 ||keystone-akamai.mwbsys.com^$important
 ||serius.mwbsys.com^$important
 ||keystone.mwbsys.com^$important
+
+# Relacionado con Piriform (Recuva, CCleaner, etc)
+#
+||*license.piriform.com^$important
+||*license-api.ccleaner.com^$important
+||speccy.piriform.com^$important
+||recuva.piriform.com^$important
+||defraggler.piriform.com^$important
+||ccleaner.piriform.com^$important
 
 # TikTok ads and analytics (also in my smartphone ads and tracking blocklist)
 
