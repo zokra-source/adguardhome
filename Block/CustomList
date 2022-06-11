@@ -1,5 +1,6 @@
 # Lista personal de las páginas que voy checando y veo que es preciso bloquear
 #
+# COMUNES
 ||bstream.hzmklvdieo.com^$important
 ||grs.dbankcloud^$important
 ||llamame.cl^$important
@@ -9,6 +10,8 @@
 ||*captchaverifier.top^$important
 ||*googleadservices.com^$important
 ||cinepornogratis.com^$important
+||www.googletagmanager.com^$important
+||secure.quantserver.com^$important
 
 # Relacionado con MalwareBytes
 #
