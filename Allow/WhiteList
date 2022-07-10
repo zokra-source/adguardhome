@@ -1,10 +1,10 @@
 # Sitios permitidos
 #
-@@||graph.facebook.com^$important
-@@||au.ff.avast.sec.miui.com^
-@@||mqtt-mini.facebook.com^$important
-@@||www.muycomputer.com^$important
-@@||connect.facebook.net^$important
-@@||social62.toonblast.net^$important
-@@||social3.toonblast.net^$important
-@@||api-global.us-east-1.origin.prodaa.netflix.com^$important
+@@||graph.facebook.com^|
+@@||au.ff.avast.sec.miui.com^|
+@@||mqtt-mini.facebook.com^|
+@@||www.muycomputer.com^|
+@@||connect.facebook.net^|
+@@||social*.toonblast.net^|
+@@||api-global.us-east-1.origin.prodaa.netflix.com^|
+@@||hxme.gvt*.com^|
