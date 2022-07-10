@@ -13,6 +13,7 @@
 ||www.googletagmanager.com^$important
 ||secure.quantserver.com^$important
 ||sb.scorecardresearch.com^$important
+||i*n.mclean.*union.com^$important
 
 # Relacionado con MalwareBytes
 #
